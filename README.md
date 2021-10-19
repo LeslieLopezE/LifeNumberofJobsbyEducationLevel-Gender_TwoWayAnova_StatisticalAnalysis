@@ -1,4 +1,4 @@
-# Two-business-cases_TwoWayAnova_StatisticalAnalysis
+# Numberofjobsby-educationlevel and genger_TwoWayAnova_StatisticalAnalysis
 
 One measure of the health of a national economy is how quickly it creates jobs. One aspect of this
 issue is the number of jobs individual hold. As part of a study on job tenure, a survey
@@ -15,12 +15,36 @@ The categories are:
 
 *At least one university (E4)
 
-File: Comparing the Lifetime Number of Jobs by Educational Level (Organize
-Data by Gender and Education)
+This hypothesis testing will determine the existence of the following interactions and/or differences:
 
-A.Test to determine whether there is interaction between gender and education
-in holding jobs.
-B.Test to determine whether there are differences in holding jobs between men
-and women.
-C.Test to determine whether there are differences in holding jobs between the
-educational levels.;
+A.Interaction between gender and education in holding jobs.
+B.Differences in holding jobs between men and women.
+C.Differences in holding jobs between the educational levels.
+
+## Hyphotesis
+
+H0: The means of jobs(numbers of jobs) for all Education Level Groups are equal
+
+Ha: The means of jobs(numbers of jobs) for all Education Level Groups are
+different
+
+H0: The means of jobs(numbers of jobs) for the 2 Genders are equal
+
+Ha: The means of jobs(numbers of jobs) for the 2 genders are different
+
+H0: There is no interaction between Education Level and Gender
+
+Ha: There is interaction between Education Level and Gender
+
+## Findings and Conclusions
+
+1. Since P value is less than 0.05, there is a significant variation in jobs in the samples
+taken (various Education grousps and 2 Genders)
+
+2.Because P value is greater than 0.05, we conclude that there is not variation in
+the number of jobs held by the 2 groups of gender.
+
+3.From the above 2 plots, there is not associated pattern between Means and Means by Educational Level
+From the LSMeans Matrix, we can see the none of the P values are less than 0.05 for the 4 Education Levels, thus we
+conclude that there is no interaction between Education Level and Gender
+
