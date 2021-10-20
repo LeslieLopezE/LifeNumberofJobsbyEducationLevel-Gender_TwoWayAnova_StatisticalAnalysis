@@ -1,4 +1,4 @@
-# Number of jobs by Education Level and Gender - Two-way Annova Analysis
+## Number of jobs by education level and gender - Two-way Annova Analysis
 
 One measure of the health of a national economy is how quickly it creates jobs. One aspect of this
 issue is the number of jobs individual hold. As part of a study on job tenure, a survey
@@ -21,50 +21,50 @@ A.Interaction between gender and education in holding jobs.
 B.Differences in holding jobs between men and women.
 C.Differences in holding jobs between the educational levels.
 
-## Hyphotesis
+### Hypothesis
 
 A.Interaction between gender and education in holding jobs.
 
-H0: There is no interaction between Education Level and Gender
+Null Hypothesis H0: There is no interaction between Education Level and Gender
 
-Ha: There is interaction between Education Level and Gender
+Alternative Hypothesis Ha: There is interaction between Education Level and Gender
 
 
 B.Differences in holding jobs between men and women.
 
-H0: The means of jobs(numbers of jobs) for the 2 Genders are equal
+Null Hypothesis H0: The means of jobs(numbers of jobs) for the 2 Genders are equal
 
-Ha: The means of jobs(numbers of jobs) for the 2 genders are different
+Alternative Hypothesis Ha: The means of jobs(numbers of jobs) for the 2 genders are different
 
 
 C.Differences in holding jobs between the educational levels.
 
-H0: The means of jobs(numbers of jobs) for all Education Level Groups are equal
+Null Hypothesis H0: The means of jobs(numbers of jobs) for all Education Level Groups are equal
 
-Ha: The means of jobs(numbers of jobs) for all Education Level Groups are
+Alternative Hypothesis Ha: The means of jobs(numbers of jobs) for all Education Level Groups are
 different
 
 
-## Findings and Conclusions
+### Findings and Conclusions
 
 
 A.Interaction between gender and education in holding jobs.
 
 From the above 2 plots, there is not associated pattern between Means and Means by Educational Level
 From the LSMeans Matrix, we can see the none of the P values are less than 0.05 for the 4 Education Levels, thus we
-conclude that there is no interaction between Education Level and Gender
+conclude that there is no interaction between Education Level and Gender. We fail to reject the Null Hypothesis.
 
 
 B.Differences in holding jobs between men and women.
 
 Because P value is greater than 0.05, we conclude that there is not variation in
-the number of jobs held by the 2 groups of gender.
+the number of jobs held by the 2 groups of gender. We fail to reject the Null Hypothesis.
 
 
 C.Differences in holding jobs between the educational levels.
 
 Since P value is less than 0.05, there is a significant variation in jobs in the samples
-taken accross various Education grousps
+taken accross various Education grousps. We fail to reject the Null Hypothesis.
 
 
 
